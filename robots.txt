@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tabletoxy.github.io/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/app/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/assets/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/css/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/includes/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/item/sitemap.html.gz
+Sitemap: https://tabletoxy.github.io/src/sitemap.html.gz
